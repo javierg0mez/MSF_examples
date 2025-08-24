@@ -7,9 +7,9 @@ This repository contains Python code and plots for computing Master Stability Fu
 - Forced Van der Pol oscillator
 
 ## Folder Structure
-- `Lorenz/`: Jupyter notebooks and plots for all 9 coupling configurations
-- `Duffing/`: Notebooks and plots for 4 coupling configurations  
-- `van_der_Pol/`: Notebooks and plots for 4 coupling configurations
+- `Lorenz`: Jupyter notebooks and plots for all 9 coupling configurations
+- `Duffing`: Notebooks and plots for 4 coupling configurations  
+- `van_der_Pol`: Notebooks and plots for 4 coupling configurations
 
 ## Requirements
 - Python 3.11
