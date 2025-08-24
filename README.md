@@ -1,4 +1,4 @@
-# MSF-examples - Master Stability Function Analysis
+# MSF_examples - Master Stability Function Analysis
 
 This repository contains Python code and plots for computing Master Stability Functions (MSFs) for three nonlinear dynamical systems:
 
