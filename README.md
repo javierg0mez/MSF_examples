@@ -14,7 +14,7 @@ This repository contains Python code and plots for computing Master Stability Fu
 Each notebook:
 - Computes the MSF
 - Identifies stability crossing points
-- Exports MSF data (r, Λ) to `.txt` files
+- Exports MSF data ($r$, $\Lambda$) to `.txt` files
 - Generates publication-ready PDF figures
 
 ## Requirements
