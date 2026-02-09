@@ -11,13 +11,22 @@ This repository contains Python code and plots for computing Master Stability Fu
 - `Duffing`: Notebooks and plots for 4 coupling configurations  
 - `van_der_Pol`: Notebooks and plots for 4 coupling configurations
 
+Each notebook:
+- Computes the MSF
+- Identifies stability crossing points
+- Exports MSF data (`r`, Λ(r)) to `.txt` files
+- Generates publication-ready PDF figures
+
 ## Requirements
-- Python 3.11
+- Python ≥ 3.11
 - NumPy, SciPy, Matplotlib
 - Jupyter Notebook
 
 ## Usage
-Run any Jupyter notebook to reproduce the MSF calculations for a specific system and coupling configuration.
+Run any Jupyter notebook to reproduce the MSF calculations for a specific system and coupling configuration. Automatically generate:
+
+- MSF data files (`.txt`)
+- MSF plots (`.pdf`)
 
 ## Reference
-This work is part of the paper "Master Stability Function: A formalism that separates dynamics from structure" submitted to Revista Brasileira de Ensino de Física.
+This work is part of the paper "Master Stability Function: The formalism that separates dynamics from structure" submitted to *Revista Brasileira de Ensino de Física*.
